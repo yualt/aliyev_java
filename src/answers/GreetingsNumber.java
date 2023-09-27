@@ -16,6 +16,8 @@ public class GreetingsNumber {
         int number = scanner.nextInt();
         scanner.close();
 
+        //new input
+
         //Make decision-Output
         if (number > 7)
             System.out.println("Hello");
