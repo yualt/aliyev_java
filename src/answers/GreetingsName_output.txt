@@ -1,0 +1,13 @@
+Enter your name
+John
+Hello, John
+
+Process finished with exit code 0
+
+******************
+
+Enter your name
+Michael
+There is no such name
+
+Process finished with exit code 0
